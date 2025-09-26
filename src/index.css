@@ -98,8 +98,8 @@ a:hover {
   border: 1px solid rgba(255, 255, 255, 0.8);
   border-radius: 25px;
   font-size: 1.2rem;
-  background-color: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000;
 }
 
 
